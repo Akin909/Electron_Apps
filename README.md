@@ -1,2 +1,2 @@
-# Electron_Apps
-Repo of code I've refactored to work as electron apps
+# Elementary electron (courtesy of NodeSchool)
+The elementary electron app tutorial (end product)
