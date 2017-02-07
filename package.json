@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "cat-picture": "^5.1.2",
+    "electron": "^1.4.15",
+    "global": "^4.3.1",
+    "lightning-image-poly": "^0.0.10"
+  },
+  "name": "elementary_electron",
+  "version": "1.0.0",
+  "description": "A simple electron app",
+  "main": "app.js",
+  "repository": {},
+  "author": "Akin Sowemimo",
+  "license": "MIT"
+}
